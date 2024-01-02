@@ -3,8 +3,7 @@ This Python script utilizes the ESRGAN (Enhanced Super-Resolution Generative Adv
 
 
 Prerequisites
-Before running the script, ensure that you have the necessary dependencies installed. The required libraries include:
-
+Before running the script, ensure you have the neccessary depecdencies installed.The required libraries include:
 OpenCV (cv2)
 NumPy (numpy)
 PyTorch (torch)
